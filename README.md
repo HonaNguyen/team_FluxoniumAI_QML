@@ -32,22 +32,21 @@ Ensure your repository is public and submitted by **August 9, 2024, 23:59pm US E
 Ensure your repository does not contain any personal or team tokens/access information to access backends. Ensure your repository does not contain any third-party intellectual property (logos, company names, copied literature, or code). Any resources used must be open source or appropriately referenced.
 
 ### Team Information:
+Team Fluxonium_AI
 Team Member 1:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Full Name: Hoang Anh Nguyen
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-CvzDNvSAiGFZB0N
 
 
 Team Member 2:
- - Full Name: 
+ - Full Name: Tu Uyen Tu Le
  - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
 
 
 ### Project Solution:
-_Include a comprehensive summary of all important information about your project solution here._
-All necessary code files and any additional information required to judge your project solution should be included in the repository. 
+We have done 4 subtasks in the projects with reports. In the final one, we used the sub sample data with classical classification, we still have not done yet the quantum classification.
 
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
 
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
-
